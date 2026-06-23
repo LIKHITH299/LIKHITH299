@@ -1,133 +1,100 @@
 <div align="center">
 
-<img src="YOUR_BANNER_URL_HERE">
+# Hey there 👋 I'm Likhith
 
-# Hey 👋 I'm Likhith
+### ☕ Java Backend Developer
+### 🚀 Spring Boot Learner | DSA Enthusiast | Problem Solver
 
-### Java Backend Developer
-
-Building backend applications with Java and Spring Boot.
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+Developer;Data+Structures+%26+Algorithms;Building+Scalable+Applications;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Developer+in+Progress;DSA+%7C+SQL+%7C+REST+APIs;Building+Projects+Every+Day" />
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-```yaml
-name: Likhith
+```java
+public class Likhith {
 
-role: Java Backend Developer
+    String role = "Java Backend Developer";
 
-location: India
+    String[] currentlyLearning = {
+        "Spring Boot",
+        "REST APIs",
+        "MySQL",
+        "System Design"
+    };
 
-currently_learning:
-  - Spring Boot
-  - REST APIs
-  - SQL Optimization
-  - System Design
+    String[] interests = {
+        "Backend Development",
+        "Problem Solving",
+        "Software Engineering"
+    };
 
-interests:
-  - Backend Engineering
-  - Distributed Systems
-  - Software Architecture
-
-goal:
-  - Build production-grade applications
+    String goal = "Build scalable applications and become a great engineer";
+}
 ```
 
 ---
 
-## Tech Arsenal
+## ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,vscode,eclipse,html,css,js" />
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,maven,html,css,js,vscode,eclipse"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LIKHITH299&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIKHITH299&layout=compact&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## Current Engineering Focus
+## 🔥 Current Mission
 
-```text
-███████████████░░░░░ Java
-█████████████░░░░░░ Spring Boot
-████████████░░░░░░░ SQL
-███████████░░░░░░░░ REST APIs
-████████░░░░░░░░░░░ System Design
-```
+🎯 Master Java Fundamentals
 
----
+🎯 Solve DSA Problems Daily
 
-## GitHub Statistics
+🎯 Build Spring Boot Projects
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=LIKHITH299&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIKHITH299&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+🎯 Get Backend Developer Role
 
 ---
 
-## Streak
+## 🛠 Featured Projects
 
-<div align="center">
+🚀 Bank Management System
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LIKHITH299&theme=tokyonight&hide_border=true"/>
+🚀 Student Management System
 
-</div>
+🚀 Spring Boot REST API
 
----
+🚀 DSA Practice Repository
 
-## Engineering Philosophy
-
-> First make it work.
->
-> Then make it clean.
->
-> Then make it scalable.
+🚀 SQL Practice Repository
 
 ---
 
-## Featured Repositories
-
-### Banking Management System
-
-Java-based banking application implementing OOP principles.
-
-### Student Management System
-
-CRUD operations with optimized data handling.
-
-### Spring Boot REST API
-
-Production-style backend application using Spring Boot.
-
-### DSA Journey
-
-Collection of problem-solving solutions and algorithms.
-
-### SQL Repository
-
-Queries, joins, indexing concepts and database design.
-
----
-
-## Connect
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/LIKHITH299">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -136,6 +103,8 @@ Queries, joins, indexing concepts and database design.
 
 <div align="center">
 
-### Building today for the opportunities of tomorrow.
+### 💡 "Consistency beats intensity."
+
+⭐ Building one project at a time.
 
 </div>
